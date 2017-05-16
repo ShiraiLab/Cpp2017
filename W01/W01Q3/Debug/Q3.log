@@ -1,5 +1,0 @@
-﻿  Q3.c
-c:\users\shira\source\repos\cpp2017\q3\q3.c(19): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' の宣言を確認してください
-  Q3.vcxproj -> C:\Users\shira\Source\Repos\Cpp2017\Q1\Debug\Q3.exe
-  Q3.vcxproj -> C:\Users\shira\Source\Repos\Cpp2017\Q1\Debug\Q3.pdb (Full PDB)
